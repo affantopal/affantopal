@@ -12,7 +12,7 @@
 
 ![elvish](elvish.png)
 # Hi there 👋
-I am a Computer Engineering student in Yıldız Technical University and I'm in my last year at the moment. I am mostly interested in Game Development and Artificial Intelligence.  
+I am a Computer Engineering student in Yildiz Technical University and I'm in my last year at the moment. I am mostly interested in Game Development and Artificial Intelligence.  
 
 I'm currently focused on learning HTML - CSS - Javascript to expand my knowledge in Frontend development.
 
