@@ -12,11 +12,15 @@
 
 ![elvish](elvish.png)
 # Hi there 👋
-I am a Computer Engineering student in Yıldız Technical University and I'm in my last year at the moment. I am mostly interested in Game Development and Artificial Intelligence.
+I am a Computer Engineering student in Yıldız Technical University and I'm in my last year at the moment. I am mostly interested in Game Development and Artificial Intelligence.  
 
 I'm currently focused on learning HTML - CSS - Javascript to expand my knowledge in Frontend development.
 
-### Languages and Tools I'm Familiar With:
+### Languages:
+<img src="https://flagpedia.net/data/flags/w580/tr.webp" width='20'> Turkish - Native  
+<img src="https://flagpedia.net/data/flags/w580/gb.webp" width='20'> English - Advanced (C1)
+
+### Programming Languages and Tools I'm Familiar With:
 [![My Skills](https://skillicons.dev/icons?i=c,cs,py,java,unity,html,css,matlab,latex,github)](https://skillicons.dev)
 
 ### Contact:
