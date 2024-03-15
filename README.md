@@ -20,6 +20,6 @@ I'm currently focused on learning HTML - CSS - Javascript to expand my knowledge
 [![My Skills](https://skillicons.dev/icons?i=c,cs,py,java,unity,html,css,matlab,latex,github)](https://skillicons.dev)
 
 ### Contact:
-[<img src="https://skillicons.dev/icons?i=gmail">](mailto:ahmetbedri3@qgmail.com)
+[<img src="https://skillicons.dev/icons?i=gmail">](mailto:ahmetbedri3@gmail.com)
 [<img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/affan-topal/)
 [<img src="https://skillicons.dev/icons?i=instagram">](https://www.instagram.com/_aabt_/)
