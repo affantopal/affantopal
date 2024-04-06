@@ -21,7 +21,7 @@ I'm currently focused on learning HTML - CSS - Javascript to expand my knowledge
 <img src="https://flagpedia.net/data/flags/w580/gb.webp" width='20'> English - Advanced (C1)
 
 ### Programming Languages and Tools I'm Familiar With:
-[![My Skills](https://skillicons.dev/icons?i=c,cs,py,java,unity,html,css,matlab,latex,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,py,java,unity,html,css,js,matlab,latex,github)](https://skillicons.dev)
 
 ### Contact:
 [<img src="https://skillicons.dev/icons?i=gmail">](mailto:ahmetbedri3@gmail.com)
